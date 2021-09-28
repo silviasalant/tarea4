@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color: #ffccff;
+  }
+  h1{
+    color:green;
+    font-family: Courier;
+    font-size: 300%;
+    text-align: center;
+    border-style: dotted;
+  }
+  p{
+    color: blue;
+    margin:40px;
+  }
+  
+  h5{
+    color :red;
+    font-family: verdana;
+    font-size:90%;
+    margin: 20px;
+  }
